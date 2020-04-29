@@ -1,0 +1,115 @@
+body,html{
+  margin:0;
+  padding:0;
+  line-height:0px;
+}
+
+.middle-nav{
+  margin-top:5vh;
+  width:100%;
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  text-align: center;
+}
+
+li{
+  display:inline;
+  padding:0px 15px 0 15px;
+  text-align: center;
+  text-align: center;
+}
+
+li a{
+text-decoration: none;
+color: #19191a;
+text-transform: uppercase;
+text-align: center;
+font-size: 0.78em;
+letter-spacing: .2em;
+}
+
+li a:hover{
+color:white;
+}
+
+h5{
+  text-transform: uppercase;  
+  font-size: 0.78em;
+  letter-spacing: .2em;
+}
+
+.container{
+  margin:0;
+  padding:0;
+  max-width: 100%;
+  width:100%;
+}
+
+.le-table{
+  margin-top:5vh;
+  text-align: center;
+}
+
+.hoverable{
+  cursor:pointer;
+}
+
+/*Remove these later*/
+
+/* The actual popup */
+.popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+.gg{
+  fill:blue;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}

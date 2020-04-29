@@ -1,0 +1,234 @@
+{
+  "1": {
+    "HomeTeam": "Crystal Palace",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "2": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Liverpool FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win",
+    "match": "UK1"
+  },
+  "3": {
+    "HomeTeam": "Manchester United",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "4": {
+    "HomeTeam": "Brighton & Hove Albion",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "5": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Everton FC",
+    "HomeScore": 2,
+    "AwayScore": 3,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "6": {
+    "HomeTeam": "Aston Villa",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "7": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Tottenham Hotspur",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "8": {
+    "HomeTeam": "AFC Bournemouth",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Win",
+    "match": "UK1"
+  },
+  "9": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Wolverhampton Wanderers",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Win",
+    "match": "UK1"
+  },
+  "10": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Aston Villa",
+    "HomeScore": 3,
+    "AwayScore": 0,
+    "Result": "Win",
+    "match": "UK1"
+  },
+  "11": {
+    "HomeTeam": "Sheffield United",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "12": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Manchester United",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Win",
+    "match": "UK1"
+  },
+  "13": {
+    "HomeTeam": "Liverpool FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "14": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Crystal Palace",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "15": {
+    "HomeTeam": "Leicester City",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "16": {
+    "HomeTeam": "Southampton FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "17": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Burnley FC",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "18": {
+    "HomeTeam": "Norwich City",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "Result": "Win",
+    "match": "UK1"
+  },
+  "19": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Chelsea FC",
+    "HomeScore": 1,
+    "AwayScore": 2,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "20": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "AFC Bournemouth",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "21": {
+    "HomeTeam": "Tottenham Hotspur",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "22": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Sheffield United",
+    "HomeScore": 0,
+    "AwayScore": 0,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "23": {
+    "HomeTeam": "Wolverhampton Wanderers",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 2,
+    "AwayScore": 0,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "24": {
+    "HomeTeam": "Manchester City",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 8,
+    "AwayScore": 0,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "25": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Arsenal FC",
+    "HomeScore": 2,
+    "AwayScore": 2,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "26": {
+    "HomeTeam": "Newcastle United",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "Result": "Draw",
+    "match": "UK1"
+  },
+  "27": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "West Ham United",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "28": {
+    "HomeTeam": "Everton FC",
+    "AwayTeam": "Watford FC",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "Result": "Loss",
+    "match": "UK1"
+  },
+  "29": {
+    "HomeTeam": "Watford FC",
+    "AwayTeam": "Brighton & Hove Albion",
+    "HomeScore": 0,
+    "AwayScore": 3,
+    "Result": "Loss",
+    "match": "UK1"
+  }
+}
